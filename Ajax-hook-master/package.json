@@ -1,0 +1,33 @@
+{
+  "name": "ajax-hook",
+  "version": "1.8.2",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "author": {
+    "name": "wendux",
+    "email": "824783146@qq.com",
+    "url": "https://github.com/wendux"
+  },
+  "description": "Hooking Javascript XMLHttpRequest object。",
+  "keywords": [
+    "ajax hook",
+    "hook ajax",
+    "ajax-hook",
+    "intercept ajax"
+  ],
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/wendux/Neat/Ajax-hook"
+  },
+  "bugs": {
+    "url": "https://github.com/wendux/Ajax-hook/issues"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-cli": "^3.2.0"
+  }
+}
