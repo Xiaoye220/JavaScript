@@ -1,0 +1,16 @@
+PODS:
+  - JustBridge (4.2.0)
+
+DEPENDENCIES:
+  - JustBridge
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JustBridge
+
+SPEC CHECKSUMS:
+  JustBridge: 8bfee3a0a1fbe0570931975908aedad9688db75d
+
+PODFILE CHECKSUM: 80872d38215cfbb8fbf9950bf0c4a7ecd4e4871b
+
+COCOAPODS: 1.6.0.beta.2

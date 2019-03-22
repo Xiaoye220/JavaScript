@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'iOS-Example' do
+  pod 'JustBridge'
+
+end
