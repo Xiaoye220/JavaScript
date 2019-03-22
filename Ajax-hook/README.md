@@ -2,4 +2,4 @@
 
 #### iOS-Example 运行结果
 
-[screenshot]()
+![screenshot](https://github.com/Xiaoye220/JavaScript/blob/master/Ajax-hook/iOS-Example/screenshot/screenshot.png)
